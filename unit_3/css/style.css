@@ -1,9 +1,15 @@
 body {
-  text-align: center; 
+  text-align: left; 
   background: url("http://i.imgur.com/k6ksyBs.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  color: #fff;
-  font-family: Helvetica;
+  color: #3D3B3B;
+  font-family: 'Abel', sans-serif;
+}
+h1 {
+	font-style: bold;
+}
+h2 {
+	font-style: italic;
 }
