@@ -1,19 +1,17 @@
 body {
-  text-align: left; 
-  vertical-align: center;
+  text-align: center; 
   background: url("http://i.imgur.com/k6ksyBs.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  color: #3D3B3B;
-  font-family: "Abel", sans-serif;
+  color: #C7C1C1;
+  font-family: 'Abel', sans-serif;
 }
 h1 {
-	font-size: 100px;
+	font-size: 90px;
 	text-align: center;
 	font-style: normal; 
 }
 h2 {
 	font-size: 16px; 
-
 }
