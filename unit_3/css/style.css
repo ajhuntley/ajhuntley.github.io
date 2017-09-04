@@ -8,8 +8,8 @@ body {
   font-family: 'Abel', sans-serif;
 }
 h1 {
-	font-style: bold;
-	font-size: 40px;
+	font-stretch: expanded;
+	font-size: 100px;
 	text-align: center; 
 }
 h2 {
