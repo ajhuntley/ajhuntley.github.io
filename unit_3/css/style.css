@@ -1,5 +1,6 @@
 body {
   text-align: left; 
+  vertical-align: middle;
   background: url("http://i.imgur.com/k6ksyBs.jpg");
   background-size: cover;
   background-repeat: no-repeat;
@@ -8,7 +9,6 @@ body {
   font-family: 'Abel', sans-serif;
 }
 h1 {
-	font-stretch: expanded;
 	font-size: 100px;
 	text-align: center; 
 }
