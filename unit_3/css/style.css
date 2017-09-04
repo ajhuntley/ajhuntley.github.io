@@ -1,7 +1,11 @@
 body {
   text-align: center; 
   background: url("http://i.imgur.com/k6ksyBs.jpg");
-  background-size: fill;
+  background-size: cover;
   color: #fff;
   font-family: Helvetica;
+}
+#slogan {
+	font-style: italic;
+
 }
