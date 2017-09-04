@@ -3,4 +3,5 @@ body {
 	color: white;
 	font-family: helvetica;
 	background: url(file:/images/FC_hero/.jpg);
+	background-size: cover;
 }
