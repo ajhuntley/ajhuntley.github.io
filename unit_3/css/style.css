@@ -2,5 +2,5 @@ body {
 	background-color: black;
 	color: white;
 	font-family: helvetica;
-	background-image: url(file:/images/FC_hero/.jpg);
+	background: url(file:/images/FC_hero/.jpg);
 }
