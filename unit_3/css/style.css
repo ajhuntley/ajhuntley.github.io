@@ -1,6 +1,7 @@
 body {
-	background-color: black;
-	color: white;
-	font-family: helvetica;
-	background: url(https://i.imgur.com/k6ksyBs.jpg);
+  text-align: center; 
+  background: url("https://i.imgur.com/k6ksyBs.jpg");
+  background-size: cover;
+  color: #fff;
+  font-family: Helvetica;
 }
