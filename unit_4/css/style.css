@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans+Condensed');
+@import url('https://fonts.googleapis.com/css?family=Vollkorn');
+
+body {
+  text-align: center; 
+  background: url("http://i.imgur.com/k6ksyBs.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: #C7C1C1;
+  font-family: 'Vollkorn', serif;
+}
+h1 {
+	font-size: 90px;
+	text-align: center;
+	font-style: normal; 
+	font-family: 'Fira Sans Condensed', sans-serif;
+}
+h2 {
+	font-size: 16px; 
+}
+#news {
+	text-align: left;
+}
