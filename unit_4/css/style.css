@@ -29,3 +29,6 @@ p {
 	font-family: 'Vollkorn', serif;
 	margin: 7em;
 }
+table {
+	align-items: center;
+}
