@@ -27,12 +27,13 @@ h2 {
 	font-weight:400;
 }
 h3 {
-	font-size: 1em;
+	font-size: 1.3em;
 	font-weight:400;
 }
 #news {
 	text-align: left;
 	width: 10em;
+	width: 40em;
 }
 #tagline {
 	background: url(https://i.imgur.com/WZONA2R.jpg);
@@ -43,5 +44,8 @@ h3 {
 	height: 90vh;
 }
 article {
-	width: 10em;
+	width: 35em;
+}
+#episode {
+	width: 40em;
 }
