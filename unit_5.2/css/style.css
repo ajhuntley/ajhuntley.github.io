@@ -40,7 +40,7 @@ h3 {
 }
 #news {
 	text-align: left;
-	width: 30em;
+	width: 50em;
 }
 #tagline {
 	background: url(https://i.imgur.com/WZONA2R.jpg);
@@ -54,7 +54,7 @@ article {
 	background-color: #E89C6C;
     border: 1px black solid;
     padding: 20px;
-    width: 20em;
+    width: 45em;
 }
 nav {
 	background-color: #E8C66A;
