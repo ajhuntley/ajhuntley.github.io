@@ -17,7 +17,7 @@ section {
 h1 {
 	font-size: 2.5em;
 	font-family: 'Fira Sans Condensed', sans-serif;
-	text-shadow: 1px 1px 2px rgba(0,0,0,.25);
+	text-shadow: 1px 1px 2px rgba(0,0,0,.5);
 }
 h1 span {
 	font-size:2em;
@@ -32,20 +32,32 @@ h3 {
 }
 #news {
 	text-align: left;
-	width: 10em;
-	width: 40em;
+	width: 80em;
+	margin: auto;
 }
 #tagline {
-	background: url(https://i.imgur.com/WZONA2R.jpg);
+	background: url(https://i.imgur.com/WZONA2R.jpg); /* url(../images/filename.ext); */
 	background-size:cover;
 	background-repeat:no-repeat;
+	background-attachment: fixed;
 	color: #fff;
 	padding: 10em 0 0 5em;
 	height: 90vh;
 }
 article {
-	width: 35em;
+	width: 50%;
 }
 #episode {
 	width: 40em;
+	margin:auto;
+}
+.videoContainer {
+    position: relative;
+    height: 0;
+    padding-bottom: 56.25%;
+}
+.videoContainer iframe {
+    position: absolute;
+    height: 100%;
+    width: 100%;
 }
