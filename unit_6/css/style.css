@@ -104,3 +104,7 @@ article {
 #news_header {
 	text-align: center;
 }
+
+#social_nav {
+	float: right;
+}
