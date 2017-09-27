@@ -62,13 +62,11 @@ article {
     width: 100%;
 }
 #two_column {
-    background-color: #FFB7CF;
     border: 1px black solid;
     padding: 20px;
 }
 
 #left {
-    background-color: #E582A2;
     border: 1px black solid;
     padding: 20px;
     float: left;
@@ -76,20 +74,17 @@ article {
 }
 
 #right {
-    background-color: #E55B88;
     border: 1px black solid;
     padding: 20px;
     float: right;   
     width: 62%;
 }
 #first {
-    background-color: #E582A2;
     float: left;
     width: 50%;
 }
 
 #second {
-    background-color: #E55B88;
     float: right;   
     width: 50%;
 }
@@ -100,4 +95,12 @@ article {
     content: " ";
     clear: both;
     height: 0;
+}
+
+#episode_header {
+	text-align: center;
+}
+
+#news_header {
+	text-align: center;
 }
