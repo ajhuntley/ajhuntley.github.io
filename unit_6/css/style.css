@@ -78,7 +78,14 @@ article {
 #right {
     padding: 20px;
     float: right;   
-    width: 62%;
+    width: 30%;
+}
+#center {
+	padding: 20px;
+	float: right;
+	position: relative;
+	left: -50%;
+	text-align: left;
 }
 #first {
     float: left;
