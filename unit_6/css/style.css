@@ -50,6 +50,7 @@ article {
 #episode {
 	width: 40em;
 	margin:auto;
+	background-color: #000000;
 }
 .videoContainer {
     position: relative;
@@ -67,14 +68,14 @@ article {
 }
 
 #left {
-    border: 1px black solid;
+	background-color: #000000;
     padding: 20px;
     float: left;
     width: 30%;
 }
 
 #right {
-    border: 1px black solid;
+	background-color: #000000;
     padding: 20px;
     float: right;   
     width: 62%;
@@ -82,11 +83,13 @@ article {
 #first {
     float: left;
     width: 50%;
+    background-color: #000000;
 }
 
 #second {
     float: right;   
     width: 50%;
+    background-color: #000000;
 }
 .clearfix:after {
     visibility: hidden;
