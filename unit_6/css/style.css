@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Corben|Kaushan+Script');
+@import url('https://fonts.googleapis.com/css?family=Corben|Six+Caps');
 * { margin:0; padding:0; box-sizing:border-box; }
 body {
   color: #C7C1C1;
@@ -13,11 +13,11 @@ section {
 .logo {
 	font-size: 2em;
 	font-weight: 600;
-	font-family: 'Kaushan Script', sans-serif;
+	font-family: 'Six Caps', sans-serif;
 }
 h1 {
 	font-size: 2.5em;
-	font-family: 'Kaushan Script', sans-serif;
+	font-family: 'Six Caps', sans-serif;
 	text-shadow: 1px 1px 2px rgba(0,0,0,.5);
 }
 h1 span {
@@ -26,7 +26,7 @@ h1 span {
 h2 {
 	font-size: 1.5em;
 	font-weight:400;
-	font-family: 'Kaushan Script', sans-serif;
+	font-family: 'Six Caps', sans-serif;
 }
 h3 {
 	font-size: 1.3em;
