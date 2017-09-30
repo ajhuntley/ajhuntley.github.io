@@ -95,15 +95,6 @@ article {
 	left: -50%;
 	text-align: left;
 }
-#first {
-    float: left;
-    width: 50%;
-}
-
-#second {
-    float: right;   
-    width: 50%;
-}
 .clearfix:after {
     visibility: hidden;
     display: block;
