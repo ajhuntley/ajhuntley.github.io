@@ -1,8 +1,8 @@
-@import url('https://fonts.googleapis.com/css?family=Corben|Six+Caps');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab|Six+Caps');
 * { margin:0; padding:0; box-sizing:border-box; }
 body {
   color: #C7C1C1;
-  font-family: 'Corben', serif;
+  font-family: 'Roboto Slab', serif;
   font-size:16px;
   line-height:1.3;
   background-color: #000000;
@@ -34,10 +34,10 @@ h3 {
 }
 #news {
 	text-align: left;
-	width: 80em;
 	margin: auto;
 	float: right;
-	width: 40%;
+	width: 30%;
+	padding: 5%;
 }
 #tagline {
 	background: url(../images/FC_hero_v3.jpg);
@@ -53,10 +53,10 @@ article {
 	width: 50%;
 }
 #episode {
-	width: 40em;
 	margin:auto;
 	float: left;
-	width: 40%;
+	width: 60%;
+	padding: 5%;
 }
 .videoContainer {
     position: relative;
@@ -83,13 +83,6 @@ article {
     padding: 20px;
     float: right;   
     width: 30%;
-}
-#center {
-	padding: 20px;
-	float: right;
-	position: relative;
-	left: -50%;
-	text-align: left;
 }
 .clearfix:after {
     visibility: hidden;
