@@ -59,12 +59,13 @@ h3 {
     position: relative;
     height: 0;
     padding-bottom: 56.25%;
+    margin: auto;
 }
 .videoContainer iframe {
     position: absolute;
     height: 80%;
     width: 80%;
-    align-items: center;
+    margin: auto;
 }
 
 #left {
