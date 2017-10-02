@@ -106,11 +106,12 @@ h3 {
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 2em;
+    font-size: .8em;
     border-radius: 8px;
     -webkit-transition-duration: 0.4s; /* Safari */
     transition-duration: 0.4s;
     cursor: pointer;
+    width: 250px;
 }
 .button:hover {
     background-color: #ffffff;
