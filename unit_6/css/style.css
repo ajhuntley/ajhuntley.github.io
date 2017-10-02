@@ -37,7 +37,7 @@ h3 {
 	margin: auto;
 	float: right;
 	width: 50%;
-	padding: 5px;
+	padding: 10px;
 }
 #tagline {
 	background: url(../images/FC_hero_v3.jpg);
@@ -53,7 +53,7 @@ h3 {
 	margin:auto;
 	float: left;
 	width: 50%;
-	padding: 5px;
+	padding: 20px;
 }
 .videoContainer {
     position: relative;
