@@ -76,6 +76,7 @@ h3 {
     padding: 20px;
     float: right;   
     width: 30%;
+    text-align: right;
 }
 .clearfix:after {
     visibility: hidden;
@@ -96,4 +97,22 @@ h3 {
 
 #social_nav {
 	float: right;
+}
+.button {
+    background-color: #e7e7e7; color: black;
+    border: none;
+    color: black
+    padding: 20px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 2em;
+    border-radius: 8px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.button:hover {
+    background-color: #ffffff;
+    color: black
 }
