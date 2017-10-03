@@ -118,3 +118,9 @@ h3 {
     background-color: #ffffff;
     color: black
 }
+article {
+	margin:15px 0px 0px 0px;
+}
+.wrapper {
+	max-width: 1250px;
+}
