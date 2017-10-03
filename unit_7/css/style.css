@@ -123,4 +123,5 @@ article {
 }
 .wrapper {
 	max-width: 1250px;
+    position: absolute;
 }
