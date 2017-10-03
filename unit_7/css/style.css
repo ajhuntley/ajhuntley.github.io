@@ -62,7 +62,7 @@ h3 {
     margin: auto;
 }
 .videoContainer iframe {
-    position: absolute;
+    position: relative;
     height: 80%;
     width: 80%;
     margin: auto;
