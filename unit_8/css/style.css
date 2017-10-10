@@ -125,3 +125,66 @@ article {
 	max-width: 1250px;
     position: absolute;
 }
+@media only screen and (max-width: 920px) {
+    h1 {
+    font-size: 2em;
+}
+    h1 span {
+        font-size:2.5em;
+}
+    h2 {
+        font-size: 1.75em;
+}
+    h3 {
+        font-size: 1.25em;
+}
+}
+@media only screen and (max-width: 680px) {
+        h1 {
+        font-size: 2em;
+}
+    h1 span {
+        font-size:2.5em;
+}
+    h2 {
+        font-size: 1.75em;
+}
+    h3 {
+        font-size: 1.25em;
+}
+    #right {
+        font-size: .75em;
+    }
+    #episode {
+        float: none;
+    }
+    #news {
+        float: none;
+    }
+}
+@media only screen and (max-width: 380px) {
+    body {
+        font-size: 14px;
+    }
+    h1 {
+        font-size: 2em;
+}
+    h1 span {
+        font-size:2.5em;
+}
+    h2 {
+        font-size: 1.75em;
+}
+    h3 {
+        font-size: 1.25em;
+}
+    #right {
+        font-size: .75em;
+    }
+    #episode {
+        float: none;
+    }
+    #news {
+        float: none;
+    }
+}
