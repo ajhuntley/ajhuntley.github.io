@@ -139,7 +139,7 @@ article {
 }
     #tagline {
         height: 55vh;
-        }    }
+        }
     img {
         width: 50%;
     }
@@ -200,8 +200,5 @@ article {
     }
     #tagline {
         height: 40vh;
-    }
-    img {
-        width: 40%;
     }
 }
