@@ -138,6 +138,12 @@ article {
     h3 {
         font-size: 1.25em;
 }
+    #tagline {
+        height: 70vh;
+    }
+    img {
+        width: 70%;
+    }
 }
 @media only screen and (max-width: 680px) {
         h1 {
@@ -162,7 +168,7 @@ article {
         float: none;
     }
     #tagline {
-        height: 70vh;
+        height: 50vh;
     }
     img {
         width: 50%;
@@ -197,6 +203,6 @@ article {
         height: 40vh;
     }
     img {
-        width: 30%;
+        width: 40%;
     }
 }
