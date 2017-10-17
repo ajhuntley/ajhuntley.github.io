@@ -55,16 +55,10 @@ h3 {
 	width: 50%;
 	padding: 1.5em;
 }
-.videoContainer {
-    position: absolute;
-    height: 0;
-    padding-bottom: 56.25%;
-    margin: auto;
-}
-.videoContainer iframe {
+iframe {
     position: relative;
-    height: 80%;
-    width: 80%;
+    height: 100%;
+    width: 1000%;
     margin: auto;
 }
 
@@ -139,10 +133,10 @@ article {
         font-size: 1.25em;
 }
     #tagline {
-        height: 70vh;
-    }
+        height: 55vh;
+        }    }
     img {
-        width: 70%;
+        width: 50%;
     }
 }
 @media only screen and (max-width: 680px) {
@@ -171,7 +165,7 @@ article {
         height: 50vh;
     }
     img {
-        width: 50%;
+        width: 40%;
     }
 }
 @media only screen and (max-width: 380px) {
@@ -201,8 +195,5 @@ article {
     }
     #tagline {
         height: 40vh;
-    }
-    img {
-        width: 40%;
     }
 }
