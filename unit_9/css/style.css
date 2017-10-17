@@ -55,13 +55,18 @@ h3 {
 	width: 50%;
 	padding: 1.5em;
 }
-iframe {
-    position: relative;
-    height: 100%;
-    width: 1000%;
+.videoContainer {
+    position: absolute;
+    height: 0;
+    padding-bottom: 56.25%;
     margin: auto;
 }
-
+.videoContainer iframe {
+    position: relative;
+    height: 100%;
+    width: 0%;
+    margin: auto;
+}
 #left {
     padding: 1.2em;
     float: left;
@@ -134,7 +139,7 @@ article {
 }
     #tagline {
         height: 55vh;
-        }
+        }    }
     img {
         width: 50%;
     }
@@ -195,5 +200,8 @@ article {
     }
     #tagline {
         height: 40vh;
+    }
+    img {
+        width: 40%;
     }
 }
