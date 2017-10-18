@@ -56,10 +56,11 @@ h3 {
 	padding: 1.5em;
 }
 iframe {
-    position: absolute;
+    position: relative;
     height: 100%;
     width: 100%;
     margin: auto;
+    text-align: center;
 }
 #left {
     padding: 1.2em;
