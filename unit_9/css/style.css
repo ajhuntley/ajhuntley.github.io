@@ -55,17 +55,10 @@ h3 {
 	width: 50%;
 	padding: 1.5em;
 }
-.videoContainer {
-    position: absolute;
-    height: 100%;
-    width: 100%;
-    padding-bottom: 56.25%;
-    margin: auto;
-}
-.videoContainer iframe {
+iframe {
     position: relative;
-    height: 100%;
-    width: 100%;
+    height: 80%;
+    width: 80%;
     margin: auto;
 }
 #left {
