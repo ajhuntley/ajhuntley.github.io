@@ -142,7 +142,7 @@ article {
         height: 55vh;
         }
     img {
-        width: 50%;
+        width: 40%;
     }
 }
 @media only screen and (max-width: 680px) {
@@ -201,5 +201,8 @@ article {
     }
     #tagline {
         height: 40vh;
+    }
+    img {
+        width: 35%;
     }
 }
